@@ -2,7 +2,7 @@ package picture;
 
 /**
  *
- * @author Kurt
+ * @author Spencer Cheng
  */
 public class Picture {
 
